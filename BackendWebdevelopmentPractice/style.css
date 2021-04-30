@@ -1,0 +1,26 @@
+h1{
+    background-color: red;
+    color:blue;
+    display: inline;
+}
+table{
+    border: 3px;
+    border-color: red;
+    border-style: solid;
+    margin:auto auto;
+}
+td{
+    text-align: center;
+}
+.Heading{
+    display: inline;
+}
+.row{
+    background-color: green;
+}
+button{
+    margin:auto;
+}
+p{
+    color:white;
+}
